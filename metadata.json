@@ -1,0 +1,8 @@
+{
+  "name": "Jiajie QuantPlatform",
+  "description": "A股智能量化投研平台 (PRD V3.0原型系统)：涵盖日常选股与调仓、真实持仓影子账户、LightGBM算法研究、组合优化、业绩归因、受控AI研究进化与4A端到端追溯。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
